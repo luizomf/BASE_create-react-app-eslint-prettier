@@ -37,6 +37,7 @@ module.exports = {
     'no-param-reassign': 0,
     'no-underscore-dangle': 0,
     'camelcase': 0,
+    'react/state-in-constructor': 0,
     // React Hooks
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn'
